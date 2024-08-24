@@ -50,6 +50,5 @@
 
 - [`King Sam`](https://github.com/Samue-l1)
 - [`Taira Makino`](https://github.com/anonphoenix007)
-- [`ALL OF MY FANS`]
-- 
+
 -------
