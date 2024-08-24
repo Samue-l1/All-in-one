@@ -3,7 +3,7 @@
 ## <h1 align="center">ꪶ𝗔𝗟𝗟 𝗜𝗡 𝗢𝗡𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧ꫂ<br></h1>
 -------
 
-## ```𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡```
+## ```IMFORMATION```
 
 𝗚𝗜𝗧𝗛𝗨𝗕 𝗙𝗢𝗟𝗟𝗢𝗪𝗘𝗥
 <p align="center">
@@ -12,18 +12,18 @@
 - [`FOLLOW MY GITHUB`](https://github.com/Samue-l1)
 
 -------
-## ```𝗖𝗹𝗮𝘀𝘀𝗶𝗰 𝗕𝗼𝘁 𝗟𝗶𝗻𝗸```
+## ```CLASSIC BOT REPO```
 
 - [`TAP ME`](https://github.com/Samue-l1/Classic-v3-BUG/pair)
 
 
 -------
-## ```𝗗𝗲𝘃𝗶𝗹 𝗦𝗽𝗶𝗱𝗲𝗿 𝗩4 𝗕𝗼𝘁 𝗟𝗶𝗻𝗸```
+## ```DEVIL SPIDER V4 REPO```
 
 - [`TAP ME`](https://github.com/Samue-l1/Devil-Spider)
 
 -------
-## ```𝗦𝗣𝗜𝗗𝗘𝗥-𝗩6 𝗥𝗘𝗣𝗢```
+## ```SPIDER V6 REPO```
 
 - [`TAP ME`](https://github.com/Samue-l1/Spider-V6)
 
@@ -33,20 +33,24 @@
 - [`TAP ME`](https://spider-classic-pairing.onrender.com)
 
 -------
-## ```𝗠𝗔𝗞𝗘 𝗦𝗨𝗥𝗘 𝗬𝗢𝗨 𝗛𝗔𝗩𝗘 𝗚𝗜𝗩𝗘𝗡 𝗦𝗧𝗔𝗥 𝗧𝗢 𝗧𝗛𝗘 𝗕𝗢𝗧 ✨```
+## ```MAKE SURE YOU GIVE A STAR ✨```
 
 -------
+## ```YOUTUBE CHANNEL FOR TUTORIALS```
+
+ - [ Click Me ](https://youtube.com/@king_sam_hub?si=1_Ae2h9Kl9IbAo7E)
+ - 
 ## ```Connect With Me```
 <p align="center">
 
 <a href="https://wa.me//254742491666"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me//254742491666" /><br>
 
 -------
-## ```B𝗢𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟```
+## ```BOT CHANNEL```
 
 - [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
 -------
-## ```𝗔𝗟𝗟 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢```
+## ```ALL THANKS TOO```
 
 - [`King Sam`](https://github.com/Samue-l1)
 - [`Taira Makino`](https://github.com/anonphoenix007)
