@@ -5,8 +5,9 @@
 
 # ```𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡```
 
+𝗚𝗜𝗧𝗛𝗨𝗕 𝗙𝗢𝗟𝗟𝗢𝗪𝗘𝗥
 <p align="center">
-`GITHUB FOLLOWERS`<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
+<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
 
 -------
 # 𝗖𝗹𝗮𝘀𝘀𝗶𝗰 𝗕𝗼𝘁 𝗟𝗶𝗻𝗸
