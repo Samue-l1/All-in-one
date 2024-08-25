@@ -14,18 +14,18 @@
 -------
 ## ```CLASSIC BOT REPO```
 
-- [`TAP ME`](https://github.com/Samue-l1/Classic-v3-BUG/pair)
+- [`TAP ME`](https://github.com/Samue-l1/Classic-v3-BUG/fork)
 
 
 -------
 ## ```DEVIL SPIDER V4 REPO```
 
-- [`TAP ME`](https://github.com/Samue-l1/Devil-Spider)
+- [`TAP ME`](https://github.com/Samue-l1/Devil-Spider/fork)
 
 -------
 ## ```SPIDER V6 REPO```
 
-- [`TAP ME`](https://github.com/Samue-l1/Spider-V6)
+- [`TAP ME`](https://github.com/Samue-l1/Spider-V6/fork)
 
 -------
 ## ```SESSION GENERATOR LINK```
