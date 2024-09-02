@@ -29,8 +29,11 @@
 
 -------
 ## ```SESSION GENERATOR LINK```
+# Use Replit to pair in the meantime 
 
-- [`TAP ME`](https://spider-classic-pairing.onrender.com)
+- [`Render`](https://spider-classic-pairing.onrender.com)
+
+- [`Replit`](https://replit.com/@pesguru02/Classic-Pairing?)
 
 -------
 ## ```MAKE SURE YOU GIVE A STAR ✨```
