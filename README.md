@@ -18,6 +18,11 @@
 
 
 -------
+## ```JINX BOT REPO```
+
+- [`CLICK HERE`](https://github.com/Samue-l1/Jinx/fork)
+
+  ------
 ## ```DEVIL SPIDER V4 REPO```
 
 - [`TAP ME`](https://github.com/Samue-l1/Devil-Spider/fork)
